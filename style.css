@@ -126,11 +126,13 @@ nav > svg {
     right:0;
   }
   .companies{
+    display: flex;
+    justify-content: center;
     font-size:xx-small;
-    padding:10px 1px;
+    padding:10px 5px;
   }
   .company-items{
-      padding-inline:5px;
+      padding-inline:10px;
   }
 }
 
