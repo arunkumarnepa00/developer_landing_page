@@ -126,9 +126,11 @@ nav > svg {
     right:0;
   }
   .companies{
-    position: absolute;
     font-size:xx-small;
-    padding:30px 1px;
+    padding:10px 1px;
+  }
+  .company-items{
+      padding-inline:5px;
   }
 }
 
